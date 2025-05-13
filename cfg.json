@@ -1,3 +1,14 @@
 {
-    "DEFAULT_GROUP_LINK": "https://t.me/indoviralterbaruxx1"
+    "DEFAULT_GROUP_LINK": "https://t.me/indoviralterbaruxx1",
+    "update_info": {
+        "version": "2.1.0",
+        "update_date": "2023-11-15",
+        "features": [
+            "Sistem notifikasi admin realtime",
+            "Auto join group dengan filter kontak mutual",
+            "Pembaruan sistem keamanan",
+            "Penambahan fitur readcode otomatis",
+            "Perbaikan bug pada sistem invite"
+        ]
+    }
 }
